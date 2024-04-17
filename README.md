@@ -13,7 +13,6 @@ The Social Media App serves as a platform for users to share their thoughts, pho
 - **Post Creation and Interaction:** Enables users to create posts, like posts, comment on posts, and share posts with other users.
 - **Feed and Timeline:** Displays a personalized feed of posts from users the current user follows, as well as a global timeline of all posts.
 - **Search Functionality:** Provides a search feature to find other users, posts, or topics of interest.
-- **Real-Time Updates:** Utilizes WebSocket or server-sent events (SSE) for real-time updates of posts, comments, and notifications.
 - **Responsive Design:** Ensures compatibility and accessibility across different devices, including desktops, tablets, and mobile phones.
 
 ## Technologies Used
